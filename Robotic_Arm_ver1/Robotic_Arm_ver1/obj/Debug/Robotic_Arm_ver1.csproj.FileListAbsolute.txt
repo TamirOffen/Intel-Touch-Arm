@@ -1,0 +1,10 @@
+C:\Users\toffen\Desktop\VS apps\Robotic_Arm_ver1\Robotic_Arm_ver1\bin\Debug\Robotic_Arm_ver1.exe.config
+C:\Users\toffen\Desktop\VS apps\Robotic_Arm_ver1\Robotic_Arm_ver1\bin\Debug\Robotic_Arm_ver1.exe
+C:\Users\toffen\Desktop\VS apps\Robotic_Arm_ver1\Robotic_Arm_ver1\bin\Debug\Robotic_Arm_ver1.pdb
+C:\Users\toffen\Desktop\VS apps\Robotic_Arm_ver1\Robotic_Arm_ver1\obj\Debug\Robotic_Arm_ver1.csprojAssemblyReference.cache
+C:\Users\toffen\Desktop\VS apps\Robotic_Arm_ver1\Robotic_Arm_ver1\obj\Debug\Robotic_Arm_ver1.Form1.resources
+C:\Users\toffen\Desktop\VS apps\Robotic_Arm_ver1\Robotic_Arm_ver1\obj\Debug\Robotic_Arm_ver1.Properties.Resources.resources
+C:\Users\toffen\Desktop\VS apps\Robotic_Arm_ver1\Robotic_Arm_ver1\obj\Debug\Robotic_Arm_ver1.csproj.GenerateResource.cache
+C:\Users\toffen\Desktop\VS apps\Robotic_Arm_ver1\Robotic_Arm_ver1\obj\Debug\Robotic_Arm_ver1.csproj.CoreCompileInputs.cache
+C:\Users\toffen\Desktop\VS apps\Robotic_Arm_ver1\Robotic_Arm_ver1\obj\Debug\Robotic_Arm_ver1.exe
+C:\Users\toffen\Desktop\VS apps\Robotic_Arm_ver1\Robotic_Arm_ver1\obj\Debug\Robotic_Arm_ver1.pdb
